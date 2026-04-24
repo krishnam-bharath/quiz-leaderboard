@@ -1,4 +1,4 @@
-# Quiz Leaderboard System —  Internship Assignment  Krishnam Bharath(RA2311028010016)
+# Quiz Leaderboard System —  Internship Assignment                    Krishnam Bharath(RA2311028010016)
 
 A Java application that polls a quiz validator API, deduplicates event data, aggregates scores, and submits a correct leaderboard.
 
