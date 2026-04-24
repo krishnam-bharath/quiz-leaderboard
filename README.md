@@ -50,7 +50,7 @@ cd quiz-leaderboard
 
 Open `src/main/java/com/quiz/QuizLeaderboardApp.java` and update:
 ```java
-private static final String REG_NO = "YOUR_REGISTRATION_NUMBER"; // ← Change this
+private static final String REG_NO = "RA2311028010016; // 
 ```
 
 ### 2. Build
