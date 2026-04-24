@@ -22,7 +22,7 @@ import java.util.List;
 public class QuizLeaderboardApp {
 
     // ─── Configuration ────────────────────────────────────────────────────────
-    private static final String REG_NO           = "2024CS101"; // ← Replace with your registration number
+    private static final String REG_NO           = "RA2311028010016"; // ← Replace with your registration number
     private static final int    TOTAL_POLLS      = 10;          // API requires exactly 10 polls
     private static final long   POLL_DELAY_MS    = 5_000L;      // Mandatory 5-second delay between polls
     // ──────────────────────────────────────────────────────────────────────────
